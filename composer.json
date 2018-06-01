@@ -1,0 +1,14 @@
+{
+	"name": "wartw/core"
+	,"version": "1.5"
+	,"description": "wartw core package."
+	,"type": "magento2-module"
+	,"homepage": "https://wartw.me"
+	,"license": "MIT"
+	,"require": {
+		"magento/framework": ">=100.0.0"
+		,"magento/module-sample-data": ">=100.0.0"
+		,"phpunit/phpunit": "*"
+	}
+	,"autoload": {"files": ["registration.php"], "psr-4": {"Df\\": ""}}
+}
