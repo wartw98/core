@@ -3,6 +3,7 @@
 	,"version": "1.5"
 	,"description": "wartw core package."
 	,"type": "magento2-module"
+	,"minimum-stability": "dev"
 	,"homepage": "https://wartw.me"
 	,"license": "MIT"
 	,"require": {
